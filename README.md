@@ -1,7 +1,3 @@
-# SIGNet
-Official model and network release for SIGNet. Coming soon!
-https://uvaauas.figshare.com/ndownloader/files/37974426
-
 # SIGNet: Intrinsic Image Decomposition by a Semantic and Invariant Gradient Driven Network for Indoor Scenes
 This is the official model and network release for the paper:
 

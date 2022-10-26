@@ -45,10 +45,10 @@ The script can then be run from the command line as follows:
 python Infer.py
 ```
 
-The outputs are as follows:
-*_img.png: Input image file.\
-*_pred_alb.png: The predicted albedo.\
-*_pred_shd.png: The predicted shading.\
+The outputs are as follows:\
+1. *_img.png: Input image file.\
+2. *_pred_alb.png: The predicted albedo.\
+3. *_pred_shd.png: The predicted shading.\
 
 ## Contact
 If you have any questions, please contact P. Das.

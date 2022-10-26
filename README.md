@@ -46,9 +46,9 @@ python Infer.py
 ```
 
 The outputs are as follows:
-*_img.png: Input image file.
-*_pred_alb.png: The predicted albedo.
-*_pred_shd.png: The predicted shading.
+*_img.png: Input image file.\
+*_pred_alb.png: The predicted albedo.\
+*_pred_shd.png: The predicted shading.\
 
 ## Contact
 If you have any questions, please contact P. Das.

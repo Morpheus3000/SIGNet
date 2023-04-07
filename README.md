@@ -57,7 +57,7 @@ If you have any questions, please contact P. Das.
 Please cite the paper if it is useful in your research:
 
 ```
-@inproceedings{dasPIENet,
+@inproceedings{dasSIGNet,
     title = {SIGNet: Intrinsic Image Decomposition by a Semantic and Invariant Gradient Driven Network for Indoor Scenes}, 
     author = {Partha Das and Sezer Karaoglu and Arjan Gisenij and Theo Gevers},
               booktitle = {European Conference of Computer Vision Workshop CV4Metaverse 2022 (ECCV).},

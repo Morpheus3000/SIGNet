@@ -12,7 +12,6 @@ from torch.utils.data import DataLoader
 from torch.autograd import Variable
 
 from Utils import mor_utils
-from whdrTestCombined import test_iiw
 
 
 np.seterr(divide='ignore', invalid='ignore')

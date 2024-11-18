@@ -3,7 +3,7 @@ This is the official model and network release for the paper:
 
 P. Das, S. Karaoglu, A. Gisenij and T. Gevers, [SIGNet: Intrinsic Image Decomposition by a Semantic and Invariant Gradient Driven Network for Indoor Scenes](https://arxiv.org/abs/2208.14369), European Conference on Computer Vision (ECCV) CV4Metaverse Workshop, 2022. The pretrained model for the IIW evaluations can be downloaded from [here](https://uvaauas.figshare.com/ndownloader/files/37974426)
 
-Our model exploits illumination invariant features and a simple pixel grouping strategy to efficiently decompose an image. The model is able to predict physically consistent reflectance and shading from a single input image, without the need for any specific hardware or sensor modality. The network is trained on a small dataset of 5k images (to be released soo) without any specialised losses. 
+Our model exploits illumination invariant features and a simple pixel grouping strategy to efficiently decompose an image. The model is able to predict physically consistent reflectance and shading from a single input image, without the need for any specific hardware or sensor modality. The network is trained on a small dataset of 5k images without any specialised losses. 
 
 ![Propose network](/images/Network_overview.png "The proposed network.")
 
